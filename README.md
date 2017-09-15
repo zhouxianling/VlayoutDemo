@@ -6,4 +6,4 @@ vlayout实战——仿淘宝首页
 
 * Demo下载体验，[`下载`](https://fir.im/sufl) ，或者扫描二维码下载
 
-  ![TabPager](./imgs/scan.png)
+  ![](./img/scan.png)
